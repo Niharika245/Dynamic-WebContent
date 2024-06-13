@@ -1,2 +1,19 @@
 # Dynamic-WebContent
 enhancing a webpage with dynamic content using JavaScript
+
+Task 1:- Accordion folder 
+Implementing interactive features such as sliders,accordions,or tabs using JavaScript.
+
+output: 
+
+Task 2:- JavaScript is used to manipulate HTML elements,user input,and perform form validation.
+
+output: 
+
+Task 3:- Fetch the data from external sources and display it dynamicall on the webpage.
+
+output:
+
+Task 4: Dynamically changing backgroundcolor using JavaScript.
+
+output:
