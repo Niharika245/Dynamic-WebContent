@@ -16,7 +16,7 @@ Task 3:-Formvalidation
 JavaScript is used to manipulate HTML elements,user input,and perform form validation.
 
 
-output:
+output:https://niharika245.github.io/Dynamic-WebContent/formvalidation/index.html
 
 Task 4: Dynamically changing background color using JavaScript.
 
