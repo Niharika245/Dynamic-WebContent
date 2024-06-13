@@ -10,7 +10,7 @@ output: https://niharika245.github.io/Dynamic-WebContent/accordion/index.html
 
 Task 2: Dynamically changing background color using JavaScript.
 
-output:
+output: https://niharika245.github.io/Dynamic-WebContent/color/index.html
 
 
 Task 3:- Fetch the data from external sources and display it dynamicall on the webpage.
@@ -22,5 +22,5 @@ Task 4:-Formvalidation
 
 JavaScript is used to manipulate HTML elements,user input,and perform form validation.
 
-output:https://niharika245.github.io/Dynamic-WebContent/formvalidation/index.html
+output: https://niharika245.github.io/Dynamic-WebContent/formvalidation/index.html
 
