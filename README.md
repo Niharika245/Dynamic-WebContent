@@ -9,7 +9,7 @@ output: https://niharika245.github.io/Dynamic-WebContent/accordion/index.html
 
 Task 2:- Fetch the data from external sources and display it dynamicall on the webpage.
 
-output: 
+output: https://niharika245.github.io/Dynamic-WebContent/fetch-api/index.html
 
 Task 3:-Formvalidation
 
