@@ -5,7 +5,7 @@ Task 1:- Accordion folder
 
 Implementing interactive features such as sliders,accordions,or tabs using JavaScript.
 
-output: 
+output: https://niharika245.github.io/Dynamic-WebContent/accordion/index.html
 
 Task 2:-Formvalidation
 
